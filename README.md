@@ -1,7 +1,7 @@
 - 👋 Hello Worllllld , I’m Mahdi 
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Front-end profgramming for website
+- 💞️ I’m looking to collaborate on Front-end programming for website
 - 📫 How to reach me zedn9ne@gmail.com
 
 <!---
