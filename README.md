@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mahdi (ZedN9ne)
+# 👋 Hey, I'm Mahdi
 
 💡 I'm a tech enthusiast passionate about **Cloud systems**, **Web technologies**, and **problem-solving**.  
 I enjoy learning how the internet works under the hood — from web servers and DNS to front-end and beyond.
