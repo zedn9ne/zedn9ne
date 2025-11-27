@@ -26,7 +26,7 @@ It includes 10 of my best beginner-level projects — each one helped me improve
 ## 🛠 Tech Stack
 - **Languages:** Python, XML, JavaScript (basic)
 - **Frameworks / Platforms:** Odoo, FastAPI (learning)
-- **Tools:** Git, Postman, VS Code  
+- **Tools:** Git, VS Code , pgAdmin 4  
 - **Databases:** PostgreSQL
 
 ---
@@ -34,7 +34,6 @@ It includes 10 of my best beginner-level projects — each one helped me improve
 ## 🎯 Focus for 2025
 - Mastering Odoo module development  
 - Strengthening backend engineering skills  
-- Preparing for **Ausbildung / career in Germany**  
 - Building portfolio projects that solve real problems
 
 ---
