@@ -1,17 +1,21 @@
-# 👋 Hey, I'm Mahdi
+# Hi, I'm Mahdi 👋
 
-💡 I'm a tech enthusiast passionate about **Cloud systems**, **Web technologies**, and **problem-solving**.  
-I enjoy learning how the internet works under the hood — from web servers and DNS to front-end and beyond.
+### 🐍 Python Developer | Odoo Module Developer | Automation & AI Enthusiast
+
+I'm a Python developer focused on building custom **Odoo modules** that automate business workflows and improve operational efficiency.  
+My goal is to combine **Python**, **Automation Engineering**, and **AI** to create smart, scalable solutions.
+
+---
+
+## 🚀 What I’m Working On
+- Developing and deploying **custom Odoo modules**
+- Learning advanced backend development concepts
+- Building a strong foundation in **Automation + Python + AI**
+- Improving my problem-solving and clean-code skills through real projects
 
 ---
 
-### 🚀 My Focus
-- 🌩️ Learning Cloud infrastructure and Linux systems
-- 🖥️ Understanding web hosting and server management
-- 💻 Improving my skills in HTML, CSS, JS, and Git
-- 🔧 Building small projects to strengthen fundamentals
-
----
+## 📁 Featured Projects
 
 ### 🧠 My Sample Projects
 Check out my repository 👉 [My-sample-projects](https://github.com/zedn9ne/My-sample-projects)  
@@ -19,12 +23,22 @@ It includes 10 of my best beginner-level projects — each one helped me improve
 
 ---
 
-### ⚡ Fun Facts
-- I love learning new tech fast and applying it in real scenarios.  
-- Currently exploring how **servers and cloud** make the web work.  
-- I believe consistency beats perfection.
+## 🛠 Tech Stack
+- **Languages:** Python, XML, JavaScript (basic)
+- **Frameworks / Platforms:** Odoo, FastAPI (learning)
+- **Tools:** Git, Postman, VS Code  
+- **Databases:** PostgreSQL
 
 ---
 
-📫 **Let's connect:**  
-If you're checking my GitHub — thank you! I'm open to any feedback, learning, and teamwork.
+## 🎯 Focus for 2025
+- Mastering Odoo module development  
+- Strengthening backend engineering skills  
+- Preparing for **Ausbildung / career in Germany**  
+- Building portfolio projects that solve real problems
+
+---
+
+## 📬 Connect With Me
+Feel free to reach out for collaboration, mentorship, or discussions!
+
