@@ -1,17 +1,20 @@
 # Hi, I'm Mahdi 👋
 
-### 🐍 Python Developer | Odoo Module Developer | Automation & AI Enthusiast
+### ⚛️ Frontend Developer | React & TypeScript | Next.js Enthusiast
 
-I'm a Python developer focused on building custom **Odoo modules** that automate business workflows and improve operational efficiency.  
-My goal is to combine **Python**, **Automation Engineering**, and **AI** to create smart, scalable solutions.
+I'm a Frontend Developer focused on building modern, scalable, and performant web applications using **React**, **TypeScript**, and **Next.js**.  
+I enjoy turning complex problems into clean and user-friendly interfaces with solid architecture and maintainable code.
+
+My long-term goal is to grow into a strong software engineer and work in international teams, especially in Germany’s tech industry.
 
 ---
 
 ## 🚀 What I’m Working On
-- Developing and deploying **custom Odoo modules**
-- Learning advanced backend development concepts
-- Building a strong foundation in **Automation + Python + AI**
-- Improving my problem-solving and clean-code skills through real projects
+- Building modern web apps with **React + TypeScript + Next.js**
+- Writing clean, scalable, and reusable frontend architecture
+- Improving UI/UX understanding and component design
+- Strengthening fundamentals in JavaScript, TypeScript, and web performance
+- Working on real-world frontend projects in a professional environment
 
 ---
 
@@ -19,25 +22,27 @@ My goal is to combine **Python**, **Automation Engineering**, and **AI** to crea
 
 ### 🧠 My Sample Projects
 Check out my repository 👉 [My-sample-projects](https://github.com/zedn9ne/My-sample-projects)  
-It includes 10 of my best beginner-level projects — each one helped me improve my coding logic and design sense.
+A collection of projects where I practice frontend development, problem solving, and UI implementation.
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python, XML, JavaScript (basic)
-- **Frameworks / Platforms:** Odoo, FastAPI (learning)
-- **Tools:** Git, VS Code , pgAdmin 4  
-- **Databases:** PostgreSQL
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Next.js
+- **Styling:** CSS, Tailwind CSS (if you use it)
+- **Tools:** Git, VS Code, Vite, npm/yarn
+- **Backend (basic understanding):** REST APIs, JSON
+- **Databases (basic):** PostgreSQL (familiar)
 
 ---
 
-## 🎯 Focus for 2025
-- Mastering Odoo module development  
-- Strengthening backend engineering skills  
-- Building portfolio projects that solve real problems
+## 🎯 Focus for 2026
+- Mastering **React + Next.js advanced patterns**
+- Deepening **TypeScript expertise**
+- Improving frontend architecture & system design
+- Building production-level portfolio projects
 
 ---
 
 ## 📬 Connect With Me
-Feel free to reach out for collaboration, mentorship, or discussions!
-
+Feel free to reach out for collaboration, opportunities, or technical discussions.
