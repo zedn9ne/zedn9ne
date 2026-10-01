@@ -1,48 +1,40 @@
 # Hi, I'm Mahdi 👋
 
-### ⚛️ Frontend Developer | React & TypeScript | Next.js Enthusiast
+### Frontend Developer | React, TypeScript & Next.js
 
-I'm a Frontend Developer focused on building modern, scalable, and performant web applications using **React**, **TypeScript**, and **Next.js**.  
-I enjoy turning complex problems into clean and user-friendly interfaces with solid architecture and maintainable code.
+I'm a frontend developer focused on building practical, maintainable web applications with React, TypeScript, and Next.js. I enjoy solving UI and architecture problems, turning requirements into clear user workflows, and improving projects through thoughtful component design.
 
-My long-term goal is to grow into a strong software engineer and work in international teams, especially in Germany’s tech industry.
+### What I Work With
 
----
+- Building responsive interfaces with React, TypeScript, and Next.js
+- Creating reusable components and organizing frontend code for maintainability
+- Managing forms, validation, and user input
+- Using React hooks to organize and reuse application logic
+- Integrating frontend applications with REST APIs
+- Building dashboards and data-focused interfaces
+- Improving usability, responsiveness, and frontend performance
 
-## 🚀 What I’m Working On
-- Building modern web apps with **React + TypeScript + Next.js**
-- Writing clean, scalable, and reusable frontend architecture
-- Improving UI/UX understanding and component design
-- Strengthening fundamentals in JavaScript, TypeScript, and web performance
-- Working on real-world frontend projects in a professional environment
+### Tech Stack
 
----
-
-## 📁 Featured Projects
-
-### 🧠 My Sample Projects
-Check out my repository 👉 [My-sample-projects](https://github.com/zedn9ne/My-sample-projects)  
-A collection of projects where I practice frontend development, problem solving, and UI implementation.
-
----
-
-## 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript
 - **Frontend:** React, Next.js
-- **Styling:** CSS, Tailwind CSS (if you use it)
-- **Tools:** Git, VS Code, Vite, npm/yarn
-- **Backend (basic understanding):** REST APIs, JSON
-- **Databases (basic):** PostgreSQL (familiar)
+- **UI & Styling:** Mantine, CSS, Sass/SCSS
+- **Data Visualization:** Recharts
+- **Dashboard Layouts:** React Grid Layout
+- **API Integration:** REST APIs, JSON
+- **Tools:** Git, GitHub, npm
 
----
+### Currently Improving
 
-## 🎯 Focus for 2026
-- Mastering **React + Next.js advanced patterns**
-- Deepening **TypeScript expertise**
-- Improving frontend architecture & system design
-- Building production-level portfolio projects
+- Advanced React and TypeScript patterns
+- Frontend architecture and maintainable application structure
+- Performance and accessibility
+- Full-stack development
 
----
+### Featured Projects
 
-## 📬 Connect With Me
-Feel free to reach out for collaboration, opportunities, or technical discussions.
+I’m currently organizing my projects and preparing newer work that better represents my experience with React, TypeScript, and modern frontend development.
+
+### Contact
+
+- GitHub: [@zedn9ne](https://github.com/zedn9ne)
