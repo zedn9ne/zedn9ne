@@ -37,4 +37,7 @@ I’m currently organizing my projects and preparing newer work that better repr
 
 ### Contact
 
-- GitHub: [@zedn9ne](https://github.com/zedn9ne)
+### Contact
+
+- LinkedIn: [Your Name](LINKEDIN_URL)
+- Email: mahdizanganeh@hotmail.com
